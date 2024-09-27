@@ -1,0 +1,7 @@
+version: 3
+
+tasks:
+  dev:
+    cmds:
+      - rm -rf public/
+      - hugo serve -D
