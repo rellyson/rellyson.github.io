@@ -3,6 +3,8 @@ defaultContentLanguage = "pt"
 languageCode = "pt-br"
 theme = "anubis2"
 title = "rellyson.github.io"
+enableEmoji = true
+enableGitInfo = true
 
 [params]
 dateFormat = "01/02/2006"
